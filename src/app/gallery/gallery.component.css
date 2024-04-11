@@ -1,0 +1,41 @@
+.best{
+    font-size: 16px;
+    color:black;
+    opacity: 0.8;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.explore{
+    font-size: 36px;
+    color:black;
+    opacity: 0.8;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.last-gallery{
+    background-color:   #f7f1f0;
+    height: 525px;
+    align-items: center;
+}
+.text-last-gallery{
+    width: 700px;
+}
+.image-up{
+    margin-left: 315px;
+    position: relative;
+}
+.image-down{
+    margin-left: 50px;
+    margin-top:50px;
+    position: absolute;
+    z-index: 999;
+}
+.shop-now{
+    background-color: #212b36;
+    color: white;
+    font-weight: 300;
+    padding: 10px 25px;
+}
+.shop-now:hover{
+    background-color: #c16452;
+}

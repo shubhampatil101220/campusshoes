@@ -1,0 +1,8 @@
+.carousel{
+    padding-top: 56px;
+}
+@media screen and (max-width: 992px) {
+    .carousel{
+        padding-top: 90px;
+    }
+}
